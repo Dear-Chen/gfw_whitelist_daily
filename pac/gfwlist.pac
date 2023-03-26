@@ -1,5 +1,5 @@
 //
-// Update: 2023-03-21 02:28:23
+// Update: 2023-03-27 02:20:42
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -281,6 +281,7 @@ const gfwlist_domains = {
   "nordstrom.com": 1,
   "google.com.sg": 1,
   "gofundme.com": 1,
+  "anonfiles.com": 1,
   "pinterest.com.mx": 1,
   "rfi.fr": 1,
   "cbc.ca": 1,
@@ -638,6 +639,7 @@ const gfwlist_domains = {
   "castbox.fm": 1,
   "localbitcoins.com": 1,
   "calameo.com": 1,
+  "ledger.com": 1,
   "18p2p.com": 1,
   "google.ba": 1,
   "worldjournal.com": 1,
@@ -750,6 +752,7 @@ const gfwlist_domains = {
   "google.hr": 1,
   "cams.com": 1,
   "autodraw.com": 1,
+  "itemfix.com": 1,
   "sex3.com": 1,
   "uderzo.it": 1,
   "oursogo.com": 1,
@@ -944,6 +947,7 @@ const gfwlist_domains = {
   "sohfrance.org": 1,
   "voacantonese.com": 1,
   "paltalk.com": 1,
+  "olehdtv.com": 1,
   "vrsmash.com": 1,
   "betvictor.com": 1,
   "crackle.com": 1,
@@ -2408,6 +2412,7 @@ const gfwlist_domains = {
   "certificate-transparency.org": 1,
   "chromecast.com": 1,
   "chromercise.com": 1,
+  "cloudfunctions.net": 1,
   "com.google": 1,
   "crbug.com": 1,
   "creativelab5.com": 1,
@@ -4131,7 +4136,6 @@ const gfwlist_domains = {
   "isupportuyghurs.org": 1,
   "itaboo.info": 1,
   "italiatibet.org": 1,
-  "download.ithome.com.tw": 1,
   "ithelp.ithome.com.tw": 1,
   "itshidden.com": 1,
   "itsky.it": 1,

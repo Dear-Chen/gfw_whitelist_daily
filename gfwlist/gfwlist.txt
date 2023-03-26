@@ -271,6 +271,7 @@ nbcnews.com
 nordstrom.com
 google.com.sg
 gofundme.com
+anonfiles.com
 pinterest.com.mx
 rfi.fr
 cbc.ca
@@ -628,6 +629,7 @@ typepad.com
 castbox.fm
 localbitcoins.com
 calameo.com
+ledger.com
 18p2p.com
 google.ba
 worldjournal.com
@@ -740,6 +742,7 @@ google.com.kh
 google.hr
 cams.com
 autodraw.com
+itemfix.com
 sex3.com
 uderzo.it
 oursogo.com
@@ -934,6 +937,7 @@ qiangwaikan.com
 sohfrance.org
 voacantonese.com
 paltalk.com
+olehdtv.com
 vrsmash.com
 betvictor.com
 crackle.com
@@ -2398,6 +2402,7 @@ blogblog.com
 certificate-transparency.org
 chromecast.com
 chromercise.com
+cloudfunctions.net
 com.google
 crbug.com
 creativelab5.com
@@ -4121,7 +4126,6 @@ isuntv.com
 isupportuyghurs.org
 itaboo.info
 italiatibet.org
-download.ithome.com.tw
 ithelp.ithome.com.tw
 itshidden.com
 itsky.it
