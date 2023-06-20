@@ -1,5 +1,5 @@
 //
-// Update: 2023-06-20 02:21:33
+// Update: 2023-06-21 02:20:02
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -10325,7 +10325,6 @@ const china_domains = {
   "8090xx.com": 1,
   "8090yx.com": 1,
   "8090yxs.com": 1,
-  "809803.com": 1,
   "809926.net": 1,
   "80baicai.biz": 1,
   "80bi.com": 1,
@@ -12265,7 +12264,6 @@ const china_domains = {
   "aiweibang.com": 1,
   "aiweline.com": 1,
   "aiwen.cc": 1,
-  "aiwenwo.net": 1,
   "aiwenyi.com": 1,
   "aiworkspace.com": 1,
   "aiwulao.com": 1,
@@ -21048,6 +21046,7 @@ const china_domains = {
   "dazhe5.com": 1,
   "dazhenzimiao.com": 1,
   "dazhewa.com": 1,
+  "dazhong.com": 1,
   "dazhongbanben.com": 1,
   "dazhonghr.com": 1,
   "dazhoumzj.com": 1,
@@ -21835,6 +21834,7 @@ const china_domains = {
   "diygogogo.com": 1,
   "diygw.com": 1,
   "diyhi.com": 1,
+  "diyiapp.com": 1,
   "diyicai.com": 1,
   "diyidan.com": 1,
   "diyidan.net": 1,
@@ -24115,6 +24115,7 @@ const china_domains = {
   "excelpx.com": 1,
   "exceltip.net": 1,
   "exchen.net": 1,
+  "excm.net": 1,
   "exdoll.com": 1,
   "exexm.com": 1,
   "exezhanqun.com": 1,
@@ -40985,6 +40986,7 @@ const china_domains = {
   "mumayi.com": 1,
   "mumu01.com": 1,
   "muniao.com": 1,
+  "mupao.com": 1,
   "mupceet.com": 1,
   "mupmstx.com": 1,
   "murdermysterypa.com": 1,
@@ -44420,6 +44422,7 @@ const china_domains = {
   "pystarter.com": 1,
   "pytgo.com": 1,
   "python-china.com": 1,
+  "python100.com": 1,
   "pythonav.com": 1,
   "pythonclub.org": 1,
   "pythoner.com": 1,
@@ -49921,6 +49924,7 @@ const china_domains = {
   "starpiao.com": 1,
   "starrockinvest.com": 1,
   "starrtc.com": 1,
+  "starrydyn.com": 1,
   "starrysurvey.com": 1,
   "stars-one.site": 1,
   "starschina.com": 1,
@@ -58346,6 +58350,7 @@ const china_domains = {
   "xitaoinfo.com": 1,
   "xitek.net": 1,
   "xitie.com": 1,
+  "xitieba.net": 1,
   "xitong-tech.com": 1,
   "xitong110.com": 1,
   "xitongdaquan.net": 1,
@@ -64057,6 +64062,7 @@ const china_domains = {
   "zshield.net": 1,
   "zshl.com": 1,
   "zshlife.com": 1,
+  "zshtys888.com": 1,
   "zshuoshao.online": 1,
   "zsia.org": 1,
   "zsihuo.com": 1,
