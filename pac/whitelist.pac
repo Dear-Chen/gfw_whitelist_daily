@@ -1,5 +1,5 @@
 //
-// Update: 2023-07-06 02:25:14
+// Update: 2023-07-07 02:23:33
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -3467,6 +3467,7 @@ const china_domains = {
   "cdn-hotels.com": 1,
   "pinpailiu.com": 1,
   "cimtshow.com": 1,
+  "xiaohus.com": 1,
   "yisell.com": 1,
   "webuy.ai": 1,
   "798com.com": 1,
@@ -11823,6 +11824,7 @@ const china_domains = {
   "adxvip.com": 1,
   "adxwork.com": 1,
   "adyounger.com": 1,
+  "adysimg.com": 1,
   "adyun.com": 1,
   "adzar-energy.com": 1,
   "adzh.com": 1,
@@ -13175,7 +13177,6 @@ const china_domains = {
   "arkread.com": 1,
   "arkteam.net": 1,
   "arliki.com": 1,
-  "arm001.com": 1,
   "arm9.net": 1,
   "arm9home.net": 1,
   "armbbs.net": 1,
@@ -21482,7 +21483,6 @@ const china_domains = {
   "dgwtrl.com": 1,
   "dgxbjg.com": 1,
   "dgxinde.net": 1,
-  "dgxinyuds.com": 1,
   "dgxue.com": 1,
   "dgyejia.com": 1,
   "dgygpx.com": 1,
@@ -29226,7 +29226,6 @@ const china_domains = {
   "hijoys.com": 1,
   "hikailink.com": 1,
   "hikcreate.com": 1,
-  "hikedj.com": 1,
   "hiklife.com": 1,
   "hikoon.com": 1,
   "hikops.com": 1,
@@ -49793,6 +49792,7 @@ const china_domains = {
   "sscom.vip": 1,
   "ssdata.com": 1,
   "ssdax.com": 1,
+  "ssdzg.com": 1,
   "sseinfo.com": 1,
   "ssf.cc": 1,
   "ssgabc.com": 1,
@@ -59430,7 +59430,6 @@ const china_domains = {
   "yangli.com": 1,
   "yanglong.pro": 1,
   "yangluojob.com": 1,
-  "yangmaodang.org": 1,
   "yangmaohao.net": 1,
   "yangner.com": 1,
   "yangqianguan.com": 1,
