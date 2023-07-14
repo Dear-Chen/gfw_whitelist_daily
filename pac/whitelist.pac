@@ -1,5 +1,5 @@
 //
-// Update: 2023-07-14 02:24:02
+// Update: 2023-07-15 02:23:25
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -354,7 +354,6 @@ const china_domains = {
   "mokahr.com": 1,
   "ddooo.com": 1,
   "diyifanwen.com": 1,
-  "panda321.com": 1,
   "oppo.com": 1,
   "cjdropshipping.com": 1,
   "tiancity.com": 1,
@@ -10696,7 +10695,6 @@ const china_domains = {
   "8ttt8.com": 1,
   "8twan.com": 1,
   "8u58.com": 1,
-  "8uka.com": 1,
   "8uyx.com": 1,
   "8wan.com": 1,
   "8win.net": 1,
@@ -12871,6 +12869,7 @@ const china_domains = {
   "aocde.com": 1,
   "aocdn.com": 1,
   "aoch.com": 1,
+  "aochengcdn.com": 1,
   "aoclia.com": 1,
   "aocslb.com": 1,
   "aodabo.tech": 1,
@@ -61276,6 +61275,7 @@ const china_domains = {
   "yuebei.vip": 1,
   "yuebingcheng.com": 1,
   "yuebooemt.com": 1,
+  "yuecdn.net": 1,
   "yuecheng.com": 1,
   "yuedaoec.com": 1,
   "yuedisk.com": 1,
@@ -61314,6 +61314,7 @@ const china_domains = {
   "yuesuoping.com": 1,
   "yuetu.tech": 1,
   "yuetutu.com": 1,
+  "yuetuvip.com": 1,
   "yuetuvip.net": 1,
   "yuetx.cc": 1,
   "yueweimusic.com": 1,
@@ -61695,7 +61696,6 @@ const china_domains = {
   "yuzhulin.com": 1,
   "yuzi.net": 1,
   "yuzvf.com": 1,
-  "yveqi.com": 1,
   "yvv.in": 1,
   "yvzfgigpiwmofux.com": 1,
   "yw2005.com": 1,
