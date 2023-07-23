@@ -1,5 +1,5 @@
 //
-// Update: 2023-05-21 02:19:33
+// Update: 2023-07-24 02:19:38
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -696,6 +696,7 @@ const gfwlist_domains = {
   "hkjc.com": 1,
   "scriptspot.com": 1,
   "google.ee": 1,
+  "imgasd.com": 1,
   "marxists.org": 1,
   "xerotica.com": 1,
   "viu.tv": 1,
@@ -1020,6 +1021,7 @@ const gfwlist_domains = {
   "pandora.tv": 1,
   "twitgoo.com": 1,
   "shop2000.com.tw": 1,
+  "xiaomi.eu": 1,
   "pmatehunter.com": 1,
   "stumbleupon.com": 1,
   "telegram.dog": 1,
@@ -1464,6 +1466,7 @@ const gfwlist_domains = {
   "udnbkk.com": 1,
   "yayabay.com": 1,
   "nurgo-software.com": 1,
+  "grindr.com": 1,
   "32red.com": 1,
   "aspistrategist.org.au": 1,
   "mercatox.com": 1,
