@@ -1,5 +1,5 @@
 //
-// Update: 2023-07-31 02:19:11
+// Update: 2023-08-01 02:20:57
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -6055,7 +6055,6 @@ const china_domains = {
   "139592.com": 1,
   "13973.com": 1,
   "139cm.com": 1,
-  "139down.com": 1,
   "139erp.com": 1,
   "139life.com": 1,
   "139play.com": 1,
@@ -8075,7 +8074,6 @@ const china_domains = {
   "4377.com": 1,
   "4377info.com": 1,
   "437zhifu.com": 1,
-  "439.cc": 1,
   "4393.cc": 1,
   "4399-xyx.com": 1,
   "4399.net": 1,
@@ -9653,7 +9651,6 @@ const china_domains = {
   "6392.spa": 1,
   "639311.com": 1,
   "6399868.com": 1,
-  "6399s5.com": 1,
   "63diy.com": 1,
   "63pe.com": 1,
   "63qingyou.com": 1,
@@ -12877,6 +12874,7 @@ const china_domains = {
   "anwen.cc": 1,
   "anwsa.com": 1,
   "anxcn.com": 1,
+  "anxiangkeji.net": 1,
   "anxiaoer.com": 1,
   "anxin.com": 1,
   "anxin360.com": 1,
@@ -37193,7 +37191,6 @@ const china_domains = {
   "lcxwfc.com": 1,
   "lcyff.com": 1,
   "lcyp.net": 1,
-  "lcyzs.com": 1,
   "lczm.com": 1,
   "lczyy.com": 1,
   "ld0766.com": 1,
