@@ -1,5 +1,5 @@
 //
-// Update: 2023-08-02 02:20:57
+// Update: 2023-08-03 02:20:40
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -18981,7 +18981,6 @@ const china_domains = {
   "cn.bing.net": 1,
   "cn.msi.com": 1,
   "cn.net": 1,
-  "cn.pandora.net": 1,
   "cn.vc": 1,
   "cn.vu": 1,
   "cn.windowssearch.com": 1,
@@ -20896,6 +20895,7 @@ const china_domains = {
   "dangwan.com": 1,
   "dangzhi.com": 1,
   "dangzhi.net": 1,
+  "dangzhu.net": 1,
   "danhua.org": 1,
   "danhuaer.com": 1,
   "daniate.com": 1,
@@ -26550,7 +26550,6 @@ const china_domains = {
   "ghatg.com": 1,
   "ghboke.com": 1,
   "ghgy.com": 1,
-  "ghgy.net": 1,
   "ghibliwiki.org": 1,
   "ghjie.com": 1,
   "ghlawyer.net": 1,
@@ -32219,7 +32218,6 @@ const china_domains = {
   "imitui.com": 1,
   "imixpark.com": 1,
   "imjiayin.com": 1,
-  "imkerwin.com": 1,
   "imkevinyang.com": 1,
   "imkira.com": 1,
   "imlaidian.com": 1,
@@ -33394,7 +33392,6 @@ const china_domains = {
   "jdzbth.com": 1,
   "jdzdeyy.com": 1,
   "jdzeduyun.com": 1,
-  "jdzjdz.com": 1,
   "jdzmc.com": 1,
   "jdzol.com": 1,
   "jdzol.net": 1,
@@ -52939,7 +52936,6 @@ const china_domains = {
   "tsybsmz.com": 1,
   "tsyqb.com": 1,
   "tsyzm.com": 1,
-  "tsz.com": 1,
   "tszckj.com": 1,
   "tszhjk.com": 1,
   "tszyzx.com": 1,
@@ -54843,6 +54839,7 @@ const china_domains = {
   "waf.cdnetworks.com": 1,
   "wafcn.com": 1,
   "wafunny.com": 1,
+  "wafzi.com": 1,
   "waheaven.com": 1,
   "wahlap.com": 1,
   "wahongyu.com": 1,
@@ -55407,7 +55404,6 @@ const china_domains = {
   "weica.net": 1,
   "weicaifu.com": 1,
   "weichaishi.com": 1,
-  "weichen.org": 1,
   "weicher-sz.com": 1,
   "weiclicai.com": 1,
   "weico.cc": 1,
