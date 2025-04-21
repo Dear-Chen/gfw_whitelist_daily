@@ -14,7 +14,7 @@ delete_dist_if_eq_release() {
 }
 
 clone_release() {
-  git clone https://github.com/Dear-Chen/gfw_whitelist_daily.git release -b gh-pages --depth 1 --single-branch --quiet
+  git clone https://github.com/pexcn/daily.git release -b gh-pages --depth 1 --single-branch --quiet
 }
 
 clean_dist() {
