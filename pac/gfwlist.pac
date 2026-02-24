@@ -1,5 +1,5 @@
 //
-// Update: 2026-02-23 02:45:52
+// Update: 2026-02-25 03:10:40
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -2614,6 +2614,7 @@ const gfwlist_domains = {
   "expecthim.com": 1,
   "exploader.net": 1,
   "eyevio.jp": 1,
+  "freedom.gov": 1,
   "forefront.ai": 1,
   "freegpt.tech": 1,
   "freegpt.es": 1,
