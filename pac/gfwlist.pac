@@ -1,5 +1,5 @@
 //
-// Update: 2026-03-05 02:59:34
+// Update: 2026-03-06 03:20:53
 //
 
 const proxy = "SOCKS5 127.0.0.1:10808;";
@@ -2496,6 +2496,7 @@ const gfwlist_domains = {
   "ifan.cz.cc": 1,
   "mike.cz.cc": 1,
   "nic.cz.cc": 1,
+  "download.dappcdn.com": 1,
   "darmau.co": 1,
   "dockerstatus.com": 1,
   "ddex.io": 1,
