@@ -79,16 +79,14 @@ http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://94.23.207.177:6969/announce
 http://announce.sktorrent.eu:6969/announce
-http://asiatorrent.giize.com:51413/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://torrentsmd.com:8080/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.internetwarriors.net:1337/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker1.itzmx.com:8080/announce
+http://tracker2.itzmx.com:6961/announce
 http://www.wareztorrent.com:80/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
@@ -96,6 +94,7 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tracker.kuroy.me:443/announce
+https://tracker.midnightprogrammer.net:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker1.520.jp:443/announce
 udp://52.58.128.163:6969/announce
@@ -111,9 +110,9 @@ udp://opentracker.lain.moscow:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
-udp://tr.btube3.com:2010/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.okade.pro:1337/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.willy.pro:6969/announce
